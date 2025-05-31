@@ -42,9 +42,8 @@ I'm **Abdelrhman Nada**, a Flutter Developer focused on building modern, high-qu
 - 🧠 Strong foundation in **Data Structures**, **OOP**, and **SOLID principles**
 - ⚙️ Focused on writing **clean**, **maintainable**, and **testable code**
 
-==================================================================================================================================
 💼 My Skill Set
-==================================================================================================================================
+
 
 🚀 Flutter & Core
 ⚡ Flutter – Clean, scalable UI with custom widgets & animations
