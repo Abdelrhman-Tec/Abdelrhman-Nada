@@ -2,18 +2,14 @@
 <h3 align="center">Flutter Developer🧠<a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
 <p align="center">
-  <a href="https://instagram.com/AbdelrhmanNada">
+  <a href="">
     <img src="https://img.shields.io/badge/@AbdelrhmanNada-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/AbdelrhmanNada">
+  <a href="">
     <img src="https://img.shields.io/badge/AbdelrhmanNada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/AbdelrhmanNada">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </p>
 
 ---
@@ -42,45 +38,46 @@ I'm **Abdelrhman Nada**, a Flutter Developer focused on building modern, high-qu
 - 🧠 Strong foundation in **Data Structures**, **OOP**, and **SOLID principles**
 - ⚙️ Focused on writing **clean**, **maintainable**, and **testable code**
 
-💼 My Skill Set
 
 
-🚀 Flutter & Core
-⚡ Flutter – Clean, scalable UI with custom widgets & animations
 
-🎯 Dart – Strong with async programming & advanced language features
+## 💼 My Skill Set
 
-✨ Animations – Hero, Tween, Implicit/Explicit animations
+---
 
-🧠 Architecture & State Management
-🧱 Clean Architecture – Layered, testable, maintainable code
+### 🚀 **Flutter & Core**
+- ⚡ **Flutter** – Clean, scalable UI with custom widgets & animations  
+- 🎯 **Dart** – Strong with async programming & advanced language features  
+- ✨ **Animations** – Hero, Tween, Implicit/Explicit animations
 
-🔄 Cubit & BLoC – Modular and reactive state management
+---
 
-🌐 APIs & Integration
-🔌 REST API – Integration with backend services
+### 🧠 **Architecture & State Management**
+- 🧱 **Clean Architecture** – Layered, testable, maintainable code  
+- 🔄 **Cubit & BLoC** – Modular and reactive state management
 
-🔄 WebSocket – Real-time data handling
+---
 
-🔥 Firebase – Auth, Firestore, Storage
+### 🌐 **APIs & Integration**
+- 🔌 **REST API** – Integration with backend services  
+- 🔄 **WebSocket** – Real-time data handling  
+- 🔥 **Firebase** – Auth, Firestore, Storage
 
-💾 Data & Storage
-📦 Hive / SQLite – Local persistent storage
+---
 
-📍 Maps & Location – Google Maps, location services
+### 💾 **Data & Storage**
+- 📦 **Hive / SQLite** – Local persistent storage  
+- 📍 **Maps & Location** – Google Maps, location services  
+- 🔔 **Notifications** – Local & push notifications
 
-🔔 Notifications – Local & push notifications
+---
 
-🧱 Computer Science Fundamentals
-📐 OOP – Clean code structure with encapsulation & abstraction
-
-🧠 SOLID Principles – Maintainable and scalable code
-
-🧩 Design Patterns – Factory, Singleton, Observer, etc.
-
-🧮 Data Structures & Algorithms – Problem solving & performance optimization
-
-💻 C++ – Strong foundation in low-level programming
+### 📚 **Computer Science Fundamentals**
+- 📐 **OOP** – Clean code structure with encapsulation & abstraction  
+- 🧠 **SOLID Principles** – Maintainable and scalable code  
+- 🧩 **Design Patterns** – Factory, Singleton, Observer, etc.  
+- 🧮 **Data Structures & Algorithms** – Problem solving & performance optimization  
+- 💻 **C++** – Strong foundation in low-level programming
 
 
 
