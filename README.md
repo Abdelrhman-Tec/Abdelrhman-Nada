@@ -2,9 +2,9 @@
 <h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/AbdelrhmanNada"><img src="https://img.shields.io/badge/@AbdelrhmanNada?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/AbdelrhmanNada"><img src="https://img.shields.io/badge/Ahmed%AbdelrhmanNada?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/AbdelrhmanNada"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -14,17 +14,66 @@
 
 ## 🚀 About Me
 
-```dart
 class AbdelrhmanNada {
   String role = "Flutter Developer";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
+  
   List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation",
-    "Simplify Code"
+    // Core Flutter & Dart
+    "Flutter",
+    "Dart",
+    "Animations",
+    "UI/UX Design",
+
+    // State Management
+    "Cubit",
+    "BLoC",
+
+    // Backend & APIs
+    "REST API",
+    "WebSocket",
+
+    // Architecture & Storage
+    "Clean Architecture",
+    "Local Storage (Hive / SQLite)",
+    "Firebase",
+
+    // Advanced Features
+    "Notifications",
+    "Maps",
+    "Testing & CI/CD",
+
+    // Programming Fundamentals
+    "C++",
+    "Data Structures",
+    "OOP",
+    "SOLID Principles",
+    "Design Patterns",
+    "Problem Solving",
+    "Algorithms"
   ];
 }
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,bloc,firebase,sqlite,cpp,java,python,git,github,vscode,linux,bash,figma" />
+</p>
+
+---
+
+## 💡 Other Skills & Concepts
+
+- 🧱 **Clean Architecture**
+- 🗃️ **Local Storage** (Hive / SQLite)
+- 🔔 **Notifications & Maps**
+- 🔌 **REST APIs & WebSocket**
+- 🧪 **Testing & CI/CD**
+- 🧠 **Object-Oriented Programming (OOP)**
+- 🧩 **Design Patterns**
+- 📐 **SOLID Principles**
+- 🔍 **Problem Solving & Algorithms**
+- 🧮 **Data Structures**
+- 🎨 **UI/UX Design**
+- ⚙️ **Cubit / BLoC State Management**
+- 🚀 **Code Simplification & Optimization**
+
