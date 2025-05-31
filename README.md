@@ -2,10 +2,18 @@
 <h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
 <p align="center">
-  <a href="https://instagram.com/AbdelrhmanNada"><img src="https://img.shields.io/badge/@AbdelrhmanNada?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/AbdelrhmanNada"><img src="https://img.shields.io/badge/Ahmed%AbdelrhmanNada?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/AbdelrhmanNada"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://instagram.com/AbdelrhmanNada">
+    <img src="https://img.shields.io/badge/@AbdelrhmanNada-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/AbdelrhmanNada">
+    <img src="https://img.shields.io/badge/AbdelrhmanNada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/AbdelrhmanNada">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://learrnsimply.com">
+    <img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -14,9 +22,10 @@
 
 ## 🚀 About Me
 
+```dart
 class AbdelrhmanNada {
   String role = "Flutter Developer";
-  
+
   List<String> skills = [
     // Core Flutter & Dart
     "Flutter",
@@ -52,28 +61,3 @@ class AbdelrhmanNada {
     "Algorithms"
   ];
 }
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,cpp,git,github,vscode,figma",ai/>
-</p>
-
----
-
-## 💡 Other Skills & Concepts
-
-- 🧱 **Clean Architecture**
-- 🗃️ **Local Storage** (Hive / SQLite)
-- 🔔 **Notifications & Maps**
-- 🔌 **REST APIs & WebSocket**
-- 🧪 **Testing & CI/CD**
-- 🧠 **Object-Oriented Programming (OOP)**
-- 🧩 **Design Patterns**
-- 📐 **SOLID Principles**
-- 🔍 **Problem Solving & Algorithms**
-- 🧮 **Data Structures**
-- 🎨 **UI/UX Design**
-- ⚙️ **Cubit / BLoC State Management**
-- 🚀 **Code Simplification & Optimization**
-
