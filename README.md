@@ -56,7 +56,7 @@ class AbdelrhmanNada {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,bloc,firebase,sqlite,cpp,java,python,git,github,vscode,linux,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,cpp,git,github,vscode,figma",ai/>
 </p>
 
 ---
