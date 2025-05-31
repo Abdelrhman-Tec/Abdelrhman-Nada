@@ -23,9 +23,9 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,hive,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,vscode,linux,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,vscode,figma" />
 </p>
 
 
