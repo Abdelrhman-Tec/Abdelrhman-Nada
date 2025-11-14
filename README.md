@@ -1,31 +1,126 @@
-# 💫 About Me:
-I'm currently working on: Building high-quality, high-performance mobile applications using Flutter and Dart. My focus is on clean architecture, efficiency, and user-centric design for both Android and iOS platforms.<br><br>I'm looking to collaborate on: Innovative Flutter projects, especially in the areas of e-commerce, healthcare, or food delivery, where I can contribute my skills in state management (Bloc, Cubit, Provider), Firebase integration, and clean architecture.<br><br>I'm looking for help with: Deepening my knowledge in advanced backend integration, exploring new state management solutions like Riverpod, and optimizing app performance and scalability.<br><br>I'm currently learning: More about advanced Flutter architectures, REST APIs and GraphQL, and leveraging AI tools like GitHub Copilot and prompt engineering to enhance my development workflow.<br><br>Ask me about: Flutter & Dart development, state management (Bloc, Cubit, Provider), Firebase (Auth, Firestore, Cloud Messaging), integrating payment gateways like Stripe and PayPal, or building scalable mobile applications with clean code principles.<br><br>Fun fact: I can build applications that help you shop online, order food, and even manage your healthcare appointments – all using the power of Flutter!<br><br>
+# 👋 Hi, I'm Abdelrhman Nada
 
+### Flutter Developer | Mobile App Architect | Clean Code Advocate
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Abdelrhman Nada) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdelrhman Nada) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abdelrhman Nada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdelrhman Nada) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abdelrhman_nada) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abdelrhman Nada) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Abdelrhman Nada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhman.nada.tech@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdelrhman Nada&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdelrhman Nada&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman Nada&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdelrhman Nada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdelrhman Nada&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I specialize in building high-performance, scalable mobile applications using **Flutter** and **Dart**. With a strong focus on clean architecture, efficient state management, and user-centric design, I create seamless experiences for both iOS and Android platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelrhman Nada&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Abdelrhman Nada) 
+## 🚀 What I Do
 
+- 📱 **Mobile Development**: Crafting production-ready Flutter applications with clean architecture principles
+- 🏗️ **State Management**: Expert in Bloc, Cubit, and Provider patterns
+- 🔥 **Firebase Integration**: Authentication, Firestore, Cloud Messaging, and Analytics
+- 💳 **Payment Solutions**: Implementing Stripe, PayPal, and other payment gateways
+- 🌐 **API Integration**: RESTful APIs and GraphQL implementation
+- 🎨 **UI/UX**: Translating Figma/Adobe XD designs into pixel-perfect Flutter interfaces
+
+---
+
+## 💼 Current Focus
+
+```dart
+class CurrentlyWorkingOn {
+  final focus = [
+    'Building scalable e-commerce and healthcare applications',
+    'Mastering advanced Flutter architectures',
+    'Exploring Riverpod for state management',
+    'Optimizing app performance and CI/CD pipelines',
+    'Leveraging AI tools (GitHub Copilot) for enhanced productivity'
+  ];
+}
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on innovative Flutter projects, particularly in:
+- 🛒 **E-commerce** platforms
+- 🏥 **Healthcare** applications
+- 🍔 **Food delivery** services
+- 📊 **FinTech** solutions
+
+---
+
+## 💻 Tech Stack
+
+### **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Backend & Databases**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Tools & Design**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanNada&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbdelrhmanNada&theme=github_dark&hide_border=true" height="170" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanNada&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="languages graph" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrhmanNada&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy graph" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdelrhmanNada)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhman.nada.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrhmanNada)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+---
+
+## 💡 Random Dev Wisdom
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💰 Support My Work
+
+If you find my projects helpful, consider supporting me:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbdelrhmanNada)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=AbdelrhmanNada&icon=2&color=0)
+
+**"Clean code always looks like it was written by someone who cares."** - Robert C. Martin
+
+</div>
